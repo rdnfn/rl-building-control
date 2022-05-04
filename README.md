@@ -55,3 +55,8 @@ The following projects provide standarised RL environments that allow you to con
   - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs)
 - Practical RL advice:
   - [williamFalcon/DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) ([corresponding talk](https://www.youtube.com/watch?v=8EcdaCk9KaQ))
+
+
+## Contact
+
+Did you find a mistake or something missing on the list? Either raise an issue in this repo or reach out to `contact-gh (at) arduin.io`. Thanks for your help!
