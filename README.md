@@ -3,9 +3,9 @@
 </p>
   
 # rl-building-control
-A curated list of awesome projects for applying reinforcement learning (RL) to building control.
+A curated list of awesome projects applying reinforcement learning (RL) to building control.
 
-Before diving into the projects, it's worth mentioning some alternative names that are often used to refer to some form of building control: 
+Before diving into the projects, it's worth mentioning some alternative names that often refer to some form of building control: 
 - *building optimisation* (BO)
 - *building energy optimisation* (BEO)
 - *building energy management* (BEM)
