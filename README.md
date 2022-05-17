@@ -1,11 +1,11 @@
 <p align="center">
 <img src="https://github.com/rdnfn/rl-building-control/raw/main/rl_building_control_logo.jpg" width="200"/>
 </p>
-  
+
 # rl-building-control
 A curated list of awesome projects applying reinforcement learning (RL) to building control.
 
-Before diving into the projects, it's worth mentioning some alternative names that often refer to some form of building control: 
+Before diving into the projects, it's worth mentioning some alternative names that often refer to some form of building control:
 - *building optimisation* (BO)
 - *building energy optimisation* (BEO)
 - *building energy management* (BEM)
@@ -32,6 +32,7 @@ The following projects provide standarised RL environments that allow you to con
 - [ModelicaGym](https://github.com/ucuapps/modelicagym) <kbd>gym</kbd> <kbd>last-commit-over-a-year-ago</kbd>
 - [RL-EmsPy](https://github.com/mechyai/RL-EmsPy)
 - [RL Testbed for EnergyPlus](https://github.com/IBM/rl-testbed-for-energyplus) <kbd>gym</kbd>
+- [Tropical Precooling Environment](https://github.com/fzi-forschungszentrum-informatik/tropical_precooling_environment) <kbd>last-commit-over-a-year-ago</kbd>
 - [Sinergym](https://github.com/jajimer/sinergym) <kbd>gym</kbd> <kbd>pip-installable</kbd>
 - [Beobench](https://github.com/rdnfn/beobench)[^1] <kbd>gym</kbd> <kbd>pip-installable</kbd>
 
@@ -45,6 +46,7 @@ The following projects provide standarised RL environments that allow you to con
 ## Agents
 
 - [VectorInstitute/MBRL-HVAC-Energy-Optimization](https://github.com/VectorInstitute/MBRL-HVAC-Energy-Optimization) - reference solution for training a Model-Based Reinforcement Learning (MBRL) agent to control an HVAC system.
+- [vermouth1992/mbrl-hvac](https://github.com/vermouth1992/mbrl-hvac)
 
 
 ## Further resources
