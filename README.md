@@ -33,8 +33,8 @@ The following projects provide standarised RL environments that allow you to con
 - [ModelicaGym](https://github.com/ucuapps/modelicagym) <kbd>gym</kbd> <kbd>last-commit-over-a-year-ago</kbd>
 - [RL-EmsPy](https://github.com/mechyai/RL-EmsPy)
 - [RL Testbed for EnergyPlus](https://github.com/IBM/rl-testbed-for-energyplus) <kbd>gym</kbd>
-- [Tropical Precooling Environment](https://github.com/fzi-forschungszentrum-informatik/tropical_precooling_environment) <kbd>last-commit-over-a-year-ago</kbd>
 - [Sinergym](https://github.com/jajimer/sinergym) <kbd>gym</kbd> <kbd>pip-installable</kbd>
+- [Tropical Precooling Environment](https://github.com/fzi-forschungszentrum-informatik/tropical_precooling_environment) <kbd>last-commit-over-a-year-ago</kbd>
 - [Beobench](https://github.com/rdnfn/beobench)[^1] <kbd>gym</kbd> <kbd>pip-installable</kbd>
 
 > *Tags:*
@@ -42,7 +42,7 @@ The following projects provide standarised RL environments that allow you to con
 > - <kbd>pip-installable</kbd>: uploaded to PyPI (enables `pip install <package>`)
 > - <kbd>last-commit-over-a-year-ago</kbd>: last commit on linked repo was over a year ago
 
-[^1]: Disclaimer: I created/contributed to this package.
+[^1]: Disclaimer: I created/contributed to this package, therefore put it last even though it's alphabetically first.
 
 ## Agents
 
