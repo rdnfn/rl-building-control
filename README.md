@@ -26,6 +26,7 @@ The following projects provide standarised RL environments that allow you to con
 
 - [BOPTEST](https://github.com/ibpsa/project1-boptest) ([second github](https://github.com/ibpsa/project1-boptest-gym)) <kbd>gym</kbd>
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) <kbd>gym</kbd>
+- [COBS](https://github.com/sustainable-computing/COBS)
 - [Energym](https://github.com/bsl546/energym)
 - [GridLearn](https://github.com/apigott/CityLearn)
 - [Gym-Eplus](https://github.com/zhangzhizza/Gym-Eplus) <kbd>gym</kbd> <kbd>last-commit-over-a-year-ago</kbd>
