@@ -44,6 +44,11 @@ The following projects provide standarised RL environments that allow you to con
 
 [^1]: Disclaimer: I created/contributed to this package, therefore put it last even though it's alphabetically first.
 
+## Agents
+
+- [VectorInstitute/MBRL-HVAC-Energy-Optimization](https://github.com/VectorInstitute/MBRL-HVAC-Energy-Optimization) - reference solution for training a Model-Based Reinforcement Learning (MBRL) agent to control an HVAC system.
+- [vermouth1992/mbrl-hvac](https://github.com/vermouth1992/mbrl-hvac)
+
 
 ## Further resources
 
